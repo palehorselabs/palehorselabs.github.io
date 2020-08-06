@@ -1,16 +1,15 @@
 # Site settings
 title: Pale Horse Labs
 description: Bringing an end to obsolete technology
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Pale Horse Labs
-user_description: We've created hundres of bespoke applications for numerous Fortune 500 companies across the globe
+user_description: this is a new test blah blah blah
 user_title: Bringing an end to obsolete technology
 email: hello@palehorselabs.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
 
-exclude: ['package.json', 'src' , 'node_modules']
+frontend_description: Whether your project requires elegantly styled static pages or beautifully complex user interfaces, Pale Horse Labs will make sure your project is intuitive and looks its best.
+backend_description: Your customers demand a performant product. Pale Horse Labs will partner with you to determine and implement the best path forward to migrating to the cloud or start from the ground up in a modern microservice cloud native architecture.
+tool_description: Using best of breed tooling, your projects are tracked and maintained from code commit to cloud deployment.
+
+exclude: ['.*', 'package.json', 'package-lock.json', 'node_modules', 'Gemfile', 'Gemfile.lock', 'gulpfile.js', 'README.md', 'LICENSE', 'CNAME' ]

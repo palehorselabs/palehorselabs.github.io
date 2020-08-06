@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});particlesJS.load("particles-js","assets/particlesjs-config.json",function(){console.log("callback - particles.js config loaded")})},!1);

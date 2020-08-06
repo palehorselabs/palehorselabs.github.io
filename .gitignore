@@ -1,6 +1,7 @@
 .sass-cache/
 .jekyll-metadata
-node_modules
 .vscode
 .idea
-_site/
+_site
+assets
+node_modules
