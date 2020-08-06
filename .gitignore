@@ -2,4 +2,5 @@
 .jekyll-metadata
 node_modules
 .vscode
+.idea
 _site/
